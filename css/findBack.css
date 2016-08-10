@@ -1,0 +1,55 @@
+.content{
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 84px 200px;
+    height: 200px;
+}
+.welcome{
+    font-size: 29px !important;
+}
+.tipHead{
+    height: 46px;
+    line-height: 46px;
+    font-size: 20px;
+    background-color: #2fd297;
+    color: white;
+    text-align: center;
+}
+.btn-login{
+    background-color: #2fd297 !important;
+    width: 299px;
+    height: 44px;
+    line-height: 44px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    margin-top: 33px;
+}
+.back{
+    margin-top: 45px;
+}
+.bg-img{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -999;
+}
+.form-horizontal .control-label{
+    float: left;
+    width: 100px;
+    text-align: right;
+    margin-right: 29px;
+    line-height: 22px;
+}
+.form-horizontal .controls{
+    margin-left: 0px !important;
+}
+input{
+    height: 23px !important;
+    width: 296px !important;
+    line-height: 23px !important;
+}
+.form-horizontal .control-group{
+    margin-bottom: 15px !important;
+
+}

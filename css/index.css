@@ -1,0 +1,113 @@
+/*轮播*/
+.carousel-indicators {
+    position: absolute;
+    top: 295px;
+    right: 35px;
+}
+
+.carousel-indicators .active {
+    background-color: #58d8a6;
+}
+
+.carousel-indicators li {
+    background-color: #ffffff;
+}
+
+.carousel-indicators li:hover {
+    cursor: pointer;
+}
+
+.carousel {
+    margin-top: 16px;
+    margin-bottom: 13px !important;
+}
+
+.carousel-indicators li {
+    width: 14px;
+    height: 14px;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+.btn-atOnce{
+    background-color: #2fd297 !important;
+    width: 100%;
+    height: 40px;
+    border: none;
+    color: white;
+}
+.content{
+    width: 191px;
+    height: 298px;
+    margin-right: 7px;
+    margin-bottom: 13px;
+    padding: 10px;
+    background-image: url('../img/circleBoxBg.png');
+}
+.content >p{
+    font-size: 14px;
+    color: #a4a4a4;
+    padding: 10px;
+}
+.con-descri{
+    font-size: 13px;
+    color: #595959;
+}
+.limit{
+    color: #f7b12e;
+    font-size:21px;
+}
+.con-img{
+    border-bottom:1px solid lightgray;
+}
+.con-detail-list >div{
+    float: left;
+    width: 48%;
+    text-align: center;
+    margin: 10px 0;
+}
+.con-detail-list{
+    overflow: hidden;
+}
+.content-left{
+    float: left;
+    overflow: hidden;
+    width: 656px;
+}
+.content-left >div{
+    float: left;
+}
+.content-ri{
+    float: right;
+    width: 263px;
+}
+.realTime{
+    background-color: white;
+    font-size: 15px;
+    padding: 20px;
+    width: 221px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    height: 270px;
+    border: 1px solid #edeced;
+}
+.realList span{
+    float: right;
+    color: #f2f2f2;
+
+}
+.realList{
+    margin-bottom: 20px;
+}
+.realList a{
+    color: #5dc89b;
+    text-decoration: underline;
+}
+.re-title{
+    color: #595959;
+    font-size: 15px;
+    padding: 0 0 5px 0;
+}
+.cont-rig-img img {
+    margin-bottom: 22px;
+    height: 144px !important;
+}

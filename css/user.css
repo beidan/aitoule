@@ -1,0 +1,135 @@
+.media{
+    background-color: white;
+    margin: 10px 0 !important;
+    padding: 10px 0 1px 20px;
+}
+.media-heading{
+    margin: 10px 0 5px;
+    color: #2fd297;
+    font-size: 18px;
+    font-weight: bold;
+}
+.back{
+    color: red;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.back:hover {
+    cursor: pointer;
+    color: red;
+}
+.star{
+    font-weight: bold;
+    font-size: 16px;
+    color: #2fd297;
+    padding: 0 1px;
+}
+.crash{
+    background-color: #F7B12E;
+    padding: 7px 30px;
+    color: white;
+    position: absolute;
+    top: 151px;
+    right: 215px;
+}
+.crash img{
+    display: inline-block;
+    margin-right: 40px;
+}
+.crash span{
+    font-size: 40px;
+    position: relative;
+    top: 9px;
+}
+.crash p{
+    margin: 3.5px 0px;
+    text-align: center;
+}
+.crash:hover{
+    cursor: pointer;
+}
+.user-nav{
+    background-color: white;
+    padding: 0 30px;
+    border-bottom: 1px solid #d7d4d4;
+}
+.user-nav li{
+    margin: 19px 50px 19px 0;
+}
+.user-table{
+    margin: 20px 40px;
+    max-width: 92%;
+}
+.user-box{
+    background-color: white;
+    margin-bottom: 70px;
+}
+thead{
+    background-color: #E6E6E6;
+}
+table td,
+table th{
+    text-align: center !important;
+}
+table tr{
+    height: 30px;
+}
+.concat{
+    position: fixed;
+    right: 60px;
+    top: 280px;
+}
+.tip{
+    background-color: white;
+    padding: 38px 0 81px 46px;
+    position: absolute;
+    top: 250px;
+    left: 24%;
+    width: 635px;
+    height: 268px;
+    z-index: 999;
+}
+.tip-content{
+    position: relative;
+    top:-220px;
+    left: 40px;
+    width: 300px;
+}
+.tip-content div{
+    font-size: 18px;
+    color: white;
+}
+.btn-modify{
+    background-color: white;
+    font-size: 18px;
+    width: 80%;
+    height: 40px;
+    border: none;
+    margin-left:25px;
+    margin-top: 30px;
+    border-radius: 3px;
+    color: #58d8a6;
+}
+.tip-img{
+    position: relative;
+}
+.mask{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .3);
+    z-index: 99;
+    text-align: center;
+}
+
+.user-table thead tr{
+    background-color: #e6e6e6;
+    height: 44px;
+    color: #7e7e7e;
+    font-size: 16px;
+}
+.use-img{
+    vertical-align: sub;
+}

@@ -1,0 +1,29 @@
+.concat{
+    position: fixed;
+    right: 60px;
+    top: 280px;
+}
+
+.article-cont{
+    background-color: white;
+    margin-top: 19px;
+    margin-bottom: 40px;
+    padding: 5px 35px;
+}
+.article-cont h1{
+    margin: 20px 0;
+}
+.art-content{
+    margin: 33px 0;
+    font-size: 13px;
+    color: #c5c5c5;
+}
+.date{
+    float: right;
+    font-size: 13px;
+    color: #9c9c9c;
+}
+.title{
+    color: #2b2b2b;
+    font-size: 16px;
+}

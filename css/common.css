@@ -1,0 +1,150 @@
+.gy_box {
+    background: #FFFFFF;
+}
+
+#gy_top_wper {
+    height: 38px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.gy_top {
+    line-height: 40px;
+}
+
+.px919 {
+    width: 919px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+    display: block
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+* html .clearfix {
+    zoom: 1;
+}
+
+*:first-child + html .clearfix {
+    zoom: 1;
+}
+
+.fl {
+    float: left;
+    color: #8a8a8a;
+    font-size: 16px;
+}
+
+.gy_top_r {
+    background-color: #2fd297;
+    margin: 2px 0;
+    padding: 0 8.5px;
+    color: white;
+    line-height: 32px;
+}
+
+.gy_top_r a, .gy_top_r span {
+    padding: 0 5px;
+    color: #e3f1eb;
+    font-size: 16px;
+}
+
+.fr {
+    float: right;
+}
+#gy_nav_wper {
+    height: 100px;
+    border-bottom: 2px solid #F3F3F3;
+}
+#gy_nav_wper {
+    height: 100px;
+    border-bottom: 2px solid #F3F3F3;
+}
+.gy_nav_l {
+    float: left;
+}
+.gy_nav_l img,
+.gy_nav_l h3 {
+    float: left;
+}
+.gy_nav_l img{
+    width: 145px;
+    height: 57px;
+    margin-top: 20px;
+}
+.gy_nav_l h3 {
+    font-size: 16px;
+    line-height: 96px;
+    padding-left: 50px;
+}
+
+.gy_nav_c li {
+    float: left;
+    font-size: 16px;
+    margin: 33px 0 0 20px;
+    padding: 5px 25px;
+    border-radius: 3px;
+}
+.gy_nav_c li a {
+    color: #b6b6b6;
+}
+
+.gy_nav_c_ts {
+    background-color: #2fd297;
+    color: white;
+}
+.gy_nav_c_ts a {
+    color: white !important;
+}
+.footer {
+    height: 190px;
+    background-color: white;
+}
+.foot-list {
+    overflow: hidden;
+    text-align: center;
+    padding: 39px 0;
+}
+.foot-list li {
+    font-size: 15px;
+    display: inline-block;
+    color: #444444;
+    padding: 0 21px;
+    text-align: center;
+    font-weight: bold;
+}
+.copyright {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #58dBa6;
+    color: white;
+    margin-top: 10px;
+}
+
+.foot-detail {
+    margin-bottom: 33px;
+}
+.foot-detail p {
+    font-size: 13px;
+    color: #a9a9a9;
+    text-align: center;
+}
+.concat{
+    position: fixed;
+    right: 60px;
+    top: 280px;
+}
+.hide{
+    display: none;
+}
